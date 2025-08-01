@@ -45,31 +45,8 @@ Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to fin
 
 ---
 
-## 🧑‍💻 Author
-
-**Rabuma Abraham Bekele**  
-Student | Developer | Problem Solver  
-
-📍 Based in Ethiopia & Switzerland  
-📫 [Instagram](https://www.instagram.com/_rabuma/)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 > ⭐ Star this repo if you find it helpful or are following the same specialization!" > README.md
 
-# Step 3: Add all your files
-git add .
-
-# Step 4: Commit your work
-git commit -m "Initial commit: Coursera Data Structures and Algorithms Specialization"
-
-# Step 5: Add your GitHub repo URL (replace with your own)
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 
 # Step 6: Push to GitHub

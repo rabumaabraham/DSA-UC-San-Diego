@@ -31,15 +31,15 @@ Each \`.py\` file corresponds to one programming assignment from the course.
 
 These programs read input from \`stdin\`. To run any solution:
 
-\`\`\`bash
+```bash
 python3 filename.py < input.txt
-\`\`\`
+```
 
 To enter input manually:
 
-\`\`\`bash
+```bash
 python3 filename.py
-\`\`\`
+```
 
 Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to finish input.
 

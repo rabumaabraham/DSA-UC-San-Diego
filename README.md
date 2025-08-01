@@ -46,9 +46,3 @@ Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to fin
 ---
 
 > ⭐ Star this repo if you find it helpful or are following the same specialization!" > README.md
-
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-
-# Step 6: Push to GitHub
-git branch -M main
-git push -u origin main

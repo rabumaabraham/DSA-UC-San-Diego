@@ -45,4 +45,4 @@ Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to fin
 
 ---
 
-> ⭐ Star this repo if you find it helpful or are following the same specialization!" > 
+> ⭐ Star this repo if you find it helpful or are following the same specialization!" 

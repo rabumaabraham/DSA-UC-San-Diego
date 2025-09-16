@@ -55,3 +55,8 @@ if __name__ == '__main__':
     x = data[1:2 * n + 1:2]
     y = data[2:2 * n + 1:2]
     print("{0:.9f}".format(minimum_distance(x, y)))
+
+
+
+
+    

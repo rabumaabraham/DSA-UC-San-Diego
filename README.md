@@ -45,4 +45,4 @@ Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to fin
 
 ## 📜 Certificate
 
-You can view my verified Coursera certificate [here](https://www.coursera.org/account/accomplishments/specialization/XY94V0PO1LJP)
+You can view my verified certificate [here](https://www.coursera.org/account/accomplishments/specialization/XY94V0PO1LJP)

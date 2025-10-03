@@ -42,3 +42,7 @@ python3 filename.py
 Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to finish input.
 
 ---
+
+## 📜 Certificate
+
+You can view my verified Coursera certificate [here](https://www.coursera.org/account/accomplishments/specialization/XY94V0PO1LJP)

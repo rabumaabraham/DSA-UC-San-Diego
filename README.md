@@ -23,8 +23,6 @@ The full specialization consists of six rigorous courses:
 
 Each \`.py\` file corresponds to one programming assignment from the course.
 
-> New files will be added as I progress through the courses.
-
 ---
 
 ## ▶️ How to Run
@@ -44,5 +42,3 @@ python3 filename.py
 Then press \`Ctrl+D\` (Linux/macOS) or \`Ctrl+Z\` → \`Enter\` (Windows) to finish input.
 
 ---
-
-> ⭐ Star this repo if you find it helpful or are following the same specialization!" 
